@@ -1,6 +1,6 @@
 * Algoritmos y Estructuras de Datos
-* K1051
-* 2021
-* 174 402-1
-* Fedorowicz
-* Santiago
+* Curso: K1051
+* Año de cursada: 2021
+* Legajo: 174 402-1
+* Apellido: Fedorowicz
+* Nombre: Santiago
